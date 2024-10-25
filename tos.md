@@ -1,6 +1,6 @@
 1. Introduction
 
-By using the FamilyHelper Cars bot, you agree to be bound by these terms of use, the Discord terms of use, all applicable laws and regulations, and agree that you are solely responsible for compliance with local laws and regulations. If you do not agree to any of these terms, you are prohibited from using this site and related resources. The materials contained on this site are protected by applicable copyright and trademark laws.
+By using the FamilyHelper MP bot, you agree to be bound by these terms of use, the Discord terms of use, all applicable laws and regulations, and agree that you are solely responsible for compliance with local laws and regulations. If you do not agree to any of these terms, you are prohibited from using this site and related resources. The materials contained on this site are protected by applicable copyright and trademark laws.
 
 2. Terms of Use Agreement
 
@@ -8,7 +8,7 @@ This agreement describes the rules of use but not the transfer of ownership, and
 
 3. Disclaimer
 
-The materials of FamilyHelper Cars are provided "as is" without warranties of any kind, expressed or implied, including, but not limited to, warranties of fitness for a particular purpose and fitness for intellectual property rights. Further, FamilyHelper does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the discord-bot materials or otherwise relating to such materials or on any resources linked to this discord-bot. FamilyHelper and its representatives are not responsible for possible destructive actions of the software on your Discord server due to inattention and/or negligence of the administration of this server or misconfiguration of functionality. All FamilyHelper settings are provided "as is" and their use is permitted solely at the end users' risk.
+The materials of FamilyHelper MP are provided "as is" without warranties of any kind, expressed or implied, including, but not limited to, warranties of fitness for a particular purpose and fitness for intellectual property rights. Further, FamilyHelper does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the discord-bot materials or otherwise relating to such materials or on any resources linked to this discord-bot. FamilyHelper and its representatives are not responsible for possible destructive actions of the software on your Discord server due to inattention and/or negligence of the administration of this server or misconfiguration of functionality. All FamilyHelper settings are provided "as is" and their use is permitted solely at the end users' risk.
 
 4. Restrictions
 
